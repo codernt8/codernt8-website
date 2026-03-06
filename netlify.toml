@@ -1,0 +1,22 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/contact"
+  to   = "/contact.html"
+  status = 200
+
+[[redirects]]
+  from = "/risk-disclosure"
+  to   = "/risk-disclosure.html"
+  status = 200
+
+[[redirects]]
+  from = "/trading-platform"
+  to   = "/trading-platform.html"
+  status = 200
+
+[[redirects]]
+  from = "/vps"
+  to   = "/vps.html"
+  status = 200
